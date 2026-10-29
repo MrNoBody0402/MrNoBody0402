@@ -1,3 +1,4 @@
+![](Banner.png)
 # Hey, I'm Denzel du Toit 👋
 
 ### Software Engineering & Web Development
